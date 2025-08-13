@@ -107,10 +107,10 @@ Ou usando o botão **"Resetar Dados"** no menu do projeto.
 ## 📷 Demonstração
 
 ### 📄 Página 1 — Lista de Alunos
-![Página 1](tela1.png)
+![Página 1](https://raw.githubusercontent.com/Furquimn/painel-escolar/main/src/img/tela1.png)
 
 ### 📄 Página 2 — Professores
-![Página 2](tela2.png)
+![Página 2](https://raw.githubusercontent.com/Furquimn/painel-escolar/main/src/img/tela2.png)
 
 
 ## ✍️ Autor
